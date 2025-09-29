@@ -105,9 +105,9 @@ export default function Page() {
         </div>
       </div>
 
-      <div className="relative z-10 flex flex-col items-center p-6 pt-12">
+      <div className="relative z-10 flex flex-col items-center pt-12">
         <header className="text-center mb-12">
-          <h1 className="text-5xl font-bold mb-4 bg-gradient-to-r from-slate-100 via-purple-200 to-cyan-200 bg-clip-text text-transparent">
+          <h1 className="text-3xl font-bold mb-4 bg-gradient-to-r from-slate-100 via-purple-200 to-cyan-200 bg-clip-text text-transparent">
             Top 10 Cryptocurrencies
           </h1>
           <p className="text-slate-400 text-lg max-w-2xl mx-auto">
